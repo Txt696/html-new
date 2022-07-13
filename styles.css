@@ -1,0 +1,16 @@
+header{
+  background: url(images/ico.jpg) repeat-x 0 100% fixed,
+              linear-gradient(to top, #5080b1, #004e8c) fixed;
+  animation: city 70s linear infinite;
+  -webkit-animation: city 10s linear infinite;
+}
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+  background: url(images/ico.jpg) no-repeat center;
+}
+body {
+  background: url(images/ico.jpg) no-repeat 0 100% fixed,
+  linear-gradient(to top, #5080b1, #004e8c) fixed;
+}
