@@ -33,13 +33,9 @@ header a.logo {
   font-weight: bold;
 }
 
-header a:hover {
+header a:hover {                  /*Навежение*/
   background-color: #FBC02D;
   color: #212121;
-}
-
-header a.active {
-  background-color: #FBC02D;
 }
 
 nav {
